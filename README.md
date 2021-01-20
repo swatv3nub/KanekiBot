@@ -1,4 +1,5 @@
-# Kaneki Bot
+# ᴋᴀɴᴇᴋɪ ᴋᴇɴ
+![Kaneki](https://w.wallha.com/ws/7/7fBpht9W.jpg)
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/swatv3nub/KanekiBot.git)
 
