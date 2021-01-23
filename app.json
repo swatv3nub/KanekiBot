@@ -61,7 +61,7 @@
       "description": "A space separated list of user_ids which should be considered support users (can gban/ungban, nothing else)",
       "value": "1167145475"
     },
-	"SUPPORT_CHAT": {
+	  "SUPPORT_CHAT": {
       "description": "Your Support Chat username, without the @",
       "value": ""
     },
@@ -101,7 +101,12 @@
     "API_KEY": {
       "description": "SpamWatch API Key Here",
       "value": "-xyz",
-    "required": false
+      "required": false
+    },
+    "AI_API_KEY": {
+      "description": "CoffeeHouse API Key Here. Get it from https://coffeehouse.intellivoid.net/",
+      "value": "-xyz",
+      "required": false
     },
     "NO_LOAD": {
       "description": "Modules Loader.",
