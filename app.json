@@ -101,7 +101,12 @@
     "API_KEY": {
       "description": "SpamWatch API Key Here",
       "value": "-xyz",
-    "required": false
+      "required": false
+    },
+    "AI_API_KEY": {
+      "description": "CoffeeHouse API Key Here. Get it from https://coffeehouse.intellivoid.net/",
+      "value": "-xyz",
+      "required": false
     },
     "NO_LOAD": {
       "description": "Modules Loader.",
