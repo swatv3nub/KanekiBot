@@ -27,3 +27,4 @@ git+https://github.com/swatv3nub/python-markdown2.git
 alphabet_detector
 beautifulsoup4
 tswift
+coffeehouse
