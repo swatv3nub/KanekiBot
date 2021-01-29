@@ -53,7 +53,7 @@ class Config(object):
     CUSTOM_CMD = False  # Set to ('/', '!') or whatever to enable it, like ALLOW_EXCL but with more custom handler!
     API_OPENWEATHER = None  # OpenWeather API
     SPAMWATCH_API = None  # Your SpamWatch token
-    AI_API_ID = None #Coffeehouse API
+    AI_API_KEY = None #Coffeehouse API
 
 
 class Production(Config):
